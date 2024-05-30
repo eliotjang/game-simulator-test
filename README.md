@@ -1,6 +1,6 @@
 # Game Item Simulator Develop
 
-## 2-update-로그인-api-구현
+## update-로그인-api-구현
 
 ### 게임 머니 API 기능 구현 완료
 
