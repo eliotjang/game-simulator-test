@@ -1,5 +1,7 @@
 # Game Item Simulator Develop
 
+### 게임 머니 API 기능 구현 완료
+
 ### AWS 배포 링크
 
 ![](https://github.com/eliotjang/game-item-simulator-develop/blob/main/assets/address.png)
