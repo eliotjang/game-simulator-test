@@ -1,6 +1,8 @@
 # Game Item Simulator Develop
 
 ### 회원가입 API 구현 완료
+- 아이디 중복 불가
+- 비밀번호 6자리 이상
 
 ### 게임 머니 API 기능 구현 완료
 
