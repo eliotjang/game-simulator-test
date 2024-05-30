@@ -1,10 +1,6 @@
 # Game Item Simulator Develop
 
-<<<<<<< HEAD
 ### 로그아웃 구현 완료
-=======
-### 게임 머니 API 기능 구현 완료
->>>>>>> 6b5bc9c26dc378609eeaedd96f701c97aeb365d9
 
 ### AWS 배포 링크
 
