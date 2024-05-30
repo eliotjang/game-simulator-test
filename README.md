@@ -1,6 +1,6 @@
 # Game Item Simulator Develop
 
-### 로그아웃 구현 완료
+### 로그아웃 구현 완료 마무라
 ## update-로그인-api-구현
 
 ### 회원가입 API 구현 완료
