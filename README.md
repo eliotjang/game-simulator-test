@@ -1,5 +1,7 @@
 # Game Item Simulator Develop
 
+### 로그아웃 구현 완료
+
 ### AWS 배포 링크
 
 ![](https://github.com/eliotjang/game-item-simulator-develop/blob/main/assets/address.png)
