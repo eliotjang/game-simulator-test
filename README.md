@@ -9,12 +9,6 @@
 - DNS 주소 : `eliotjang.shop:3000`
 - [AWS 배포 링크](http://eliotjang.shop:3000/)
 
-쓰레기값
-
-쓰레기값
-
-쓰레기값
-
 ### API 명세서
 
 ![](https://github.com/eliotjang/game-item-simulator-develop/blob/main/assets/API.png)
